@@ -1,7 +1,5 @@
 # XiaoweiHu.github.io
 
-# Your Name
-
 👨‍💻 Data Scientist | 🌐 [Personal Website](https://your-website.com) | 🐦 [Twitter](https://twitter.com/your_twitter)
 
 Welcome to my GitHub! I'm a passionate data scientist with expertise in machine learning, data analysis, and visualization. Below are some highlights of my work.
