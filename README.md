@@ -36,7 +36,7 @@ Brief description of the project and its significance. Include a link to the rep
 
 ## Contact
 
-📧 Email: your.email@example.com
+📧 Email: hu8 (at) uwalumni.com
 
 Feel free to reach out if you have any questions or collaboration opportunities!
 
