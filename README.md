@@ -1,4 +1,4 @@
-# XiaoweiHu.github.io
+# Xiaowei Hu
 
 👨‍💻 Data Scientist | 🌐 [Personal Website](https://your-website.com) | 🐦 [Twitter](https://twitter.com/your_twitter)
 
