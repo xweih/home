@@ -12,11 +12,11 @@ Furniture Co’s logistic department of is responsible for the last mile deliver
 
 [Link to Project 1](https://github.com/xweih/Last-Mile-Delivery)
 
-### Project 2: Project Name
+### Project 2: Outlier Remover
 
-Brief description of the project and its significance. Include a link to the repository or deployed application.
+A routine that removes the outliers of a dataset until there is none left.
 
-[Link to Project 2](https://github.com/your-username/project-2)
+[Link to Project 2](https://github.com/xweih/OutlierRemover)
 
 ## Skills
 
