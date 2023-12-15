@@ -1,16 +1,16 @@
 # Xiaowei Hu
 
-👨‍💻 Data Scientist | 🌐 [Linkedin](linkedin.com/in/xiaowei-h-7930a811) | 🐦 [Twitter](https://twitter.com/xsayswho)
+👨‍💻 Data Scientist | 🌐 [Linkedin](https://www.linkedin.com/in/xiaowei-h-7930a811/) | 🐦 [Twitter](https://twitter.com/xsayswho)
 
-Welcome to my GitHub! I'm a passionate data scientist with expertise in machine learning, data analysis, and visualization. Below are some highlights of my work.
+Welcome to my GitHub page! I'm a passionate Operations Research and Data Scientist with expertise in machine learning, data analysis, and visualization. Below are some highlights of my work.
 
 ## Projects
 
-### Project 1: Project Name
+### Project 1: Last Mile Delivery (LMD)
 
-Brief description of the project and its significance. Include a link to the repository or deployed application.
+Furniture Co’s logistic department of is responsible for the last mile delivery from store to customers’ homes. We generate an assignment schedule for tomorrow by showing "who delivers which furniture". 
 
-[Link to Project 1](https://github.com/your-username/project-1)
+[Link to Project 1](https://github.com/xweih/Last-Mile-Delivery)
 
 ### Project 2: Project Name
 
