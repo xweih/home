@@ -1,6 +1,6 @@
 # Xiaowei Hu
 
-👨‍💻 Data Scientist | 🌐 [Personal Website](https://your-website.com) | 🐦 [Twitter](https://twitter.com/your_twitter)
+👨‍💻 Data Scientist | 🌐 [Linkedin](linkedin.com/in/xiaowei-h-7930a811) | 🐦 [Twitter](https://twitter.com/xsayswho)
 
 Welcome to my GitHub! I'm a passionate data scientist with expertise in machine learning, data analysis, and visualization. Below are some highlights of my work.
 
@@ -28,7 +28,10 @@ Brief description of the project and its significance. Include a link to the rep
 
 ## Education
 
-- M.S. in Data Science, University Name, Year
+- Ph.D. in Industrial Engineering, University of Wisconsin-Milwaukee
+- M.S. in Industrial and System Engineering, University of Wisconsin-Madison
+- M.S. in Mechanical Engineering, University of Nevada-Reno
+- M.S. in Automation and Mechatronics, Shanghai University
 
 ## Experience
 
