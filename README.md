@@ -1,6 +1,6 @@
-# Xiaowei Hu
+# Xiaowei Hu, Ph.D.
 
-👨‍💻 Data Scientist | 🌐 [Linkedin](https://www.linkedin.com/in/xiaowei-h-7930a811/) | 🐦 [Twitter](https://twitter.com/xsayswho)
+👨‍💻 Data Scientist | 🌐 [Linkedin](https://www.linkedin.com/in/xiaowei-h-7930a811/) | 🐤 [X](https://twitter.com/xsayswho)
 
 Welcome to my GitHub page! I'm a passionate Operations Research and Data Scientist with expertise in machine learning, data analysis, and visualization. Below are some highlights of my work.
 
@@ -18,13 +18,28 @@ A routine that removes the outliers of a dataset until there is none left.
 
 [Link to Project 2](https://github.com/xweih/OutlierRemover)
 
-## Skills
+## Operations Research Skills
+
+- Optimization problems: LP, NLP, MIP, Variational Inequality, Robust Opt., Second-Order-Cone problems 
+
+## Data-related Skills
 
 - Python
 - Machine Learning
 - Data Analysis
 - Data Visualization
 - SQL
+- R
+
+## Applications
+
+- Supply chain management
+- Transportation and logistics
+- General network problems
+- Scarce resource management under restriction or uncertainty
+- Economic policy design
+- Scheduling
+- Market analysis
 
 ## Education
 
