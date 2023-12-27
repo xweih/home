@@ -46,7 +46,7 @@ A routine that removes the outliers of a dataset until there is none left.
 - Ph.D. in Industrial Engineering, University of Wisconsin-Milwaukee
 - M.S. in Industrial and System Engineering, University of Wisconsin-Madison
 - M.S. in Mechanical Engineering, University of Nevada-Reno
-- M.S. in Automation and Mechatronics, Shanghai University
+- B.S. in Automation and Mechatronics, Shanghai University
 
 ## Experience
 
