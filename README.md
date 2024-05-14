@@ -2,7 +2,7 @@
 
 👨‍💻 Data Scientist | 🌐 [Linkedin](https://www.linkedin.com/in/xiaowei-h-7930a811/) | 🐤 [X](https://twitter.com/xsayswho)
 
-Welcome to my GitHub page! I'm a passionate Operations Research and Data Scientist with expertise in machine learning, data analysis, and visualization. Below are some highlights of my work.
+Welcome to my GitHub page! I'm a passionate Operations Research Scientist with expertise in operations management, machine learning, and data analytics. Below are some highlights of my work.
 
 ## Projects
 
