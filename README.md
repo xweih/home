@@ -6,7 +6,7 @@ Welcome to my GitHub page! I'm a passionate Operations Research and Data Scienti
 
 ## Projects
 
-### Project 1: Last Mile Delivery (LMD)
+### Project 1: [Last Mile Delivery (LMD)](https://github.com/xweih/Last-Mile-Delivery)
 
 Furniture Co’s logistic department of is responsible for the last mile delivery from store to customers’ homes. We generate an assignment schedule for tomorrow by showing "who delivers which furniture". 
 
