@@ -8,15 +8,20 @@ Welcome to my GitHub page! I'm a passionate Operations Research and Data Scienti
 
 ### Project 1: [Last Mile Delivery (LMD)](https://github.com/xweih/Last-Mile-Delivery)
 
-Furniture Co’s logistic department of is responsible for the last mile delivery from store to customers’ homes. We generate an assignment schedule for tomorrow by showing "who delivers which furniture". 
+Furniture Co’s logistic department makes the last mile delivery from store to customers. I generate an assignment schedule for a given day by showing "what employee delivers which furniture to where". 
 
-[Link to Project 1](https://github.com/xweih/Last-Mile-Delivery)
-
-### Project 2: Outlier Remover
+### Project 2: [Outlier Remover](https://github.com/xweih/OutlierRemover)
 
 A routine that removes the outliers of a dataset until there is none left.
 
-[Link to Project 2](https://github.com/xweih/OutlierRemover)
+### Project 3: [Save Big at King Crab Shack](https://github.com/xweih/kcs)
+
+How to build a customizable seafood-boil order that will get you the biggest bang for the buck.
+
+### Project 4: [Titanic Visualization](https://xweih.github.io/titanic/)
+
+### Project 5: [Iris Visualization](https://xweih.github.io/iris/)
+
 
 ## Operations Research Skills
 
