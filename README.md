@@ -58,10 +58,6 @@ A routine that removes the outliers of a dataset until there is none left.
 - M.S. in Mechanical Engineering, University of Nevada-Reno
 - B.S. in Automation and Mechatronics, Shanghai University
 
-## Experience
-
-- Data Scientist at Company Name, Year - Present
-
 ## Contact
 
 
