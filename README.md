@@ -2,6 +2,7 @@
 
 👨‍💻 Optimizer, Data Scientist  
 🌐 [Linkedin](https://www.linkedin.com/in/xiaowei-h-7930a811/) | 🐤 [X](https://twitter.com/xsayswho) | 🎓 [Google Scholar](https://scholar.google.com/citations?user=gVeAX2oAAAAJ&hl=en)
+📧 hu8🎯uwalumni.com
 
 Hi! Welcome to my home page! I'm a passionate Operations Research Data Scientist with expertise in mathematical optimization, data analytics, and their applications in operations management. Below are some highlights of my work.
 
@@ -57,11 +58,6 @@ A routine that removes the outliers of a dataset until there is none left.
 - M.S. in Industrial and System Engineering, University of Wisconsin-Madison
 - M.S. in Mechanical Engineering, University of Nevada-Reno
 - B.S. in Automation and Mechatronics, Shanghai University
-
-## Contact
-
-
-📧 Email: hu8🎯uwalumni.com
 
 Feel free to reach out if you have any questions or collaboration opportunities!
 
