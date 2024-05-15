@@ -11,7 +11,7 @@ Welcome to my GitHub page! I'm a passionate Operations Research and Data Scienti
 
 Furniture Co’s logistic department makes the last mile delivery from store to customers. I generate an assignment schedule for a given day by showing "what employee delivers which furniture to where". 
 
-### Project 2: [Tackling the Supply Chain Disruption Problem with Economic Policies and Operations Research](https://github.com/xweih/POSTER--A-trident-for-the-resource-scarcity-and-supply-chain-disruption/blob/main/images/XHposter.png)
+### Project 2: [Tackling the Pandemic Supply Chain Disruption](https://github.com/xweih/POSTER--A-trident-for-the-resource-scarcity-and-supply-chain-disruption/blob/main/images/XHposter.png)
 
 During the COVID-19 pandemic, the medical glove supply chain was under stress with constant shortages. How should policymakers administer proper economic instruments to relieve the supply chain stress? 
 
