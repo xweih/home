@@ -6,7 +6,7 @@
 
 
 
-Hi! Welcome to my home page! I'm a passionate Operations Research Data Scientist with expertise in mathematical optimization, data analytics, and their applications in operations management. Below are some highlights of my work.
+Hi! I'm Xiaowei. I'm a passionate Operations Research Data Scientist with expertise in mathematical optimization, data analytics, and their applications in operations management. Below are some highlights of my work.
 
 ## Projects
 
