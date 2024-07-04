@@ -18,9 +18,9 @@ Furniture Co’s logistic department makes the last mile delivery from store to 
 
 During the COVID-19 pandemic, the medical glove supply chain was under stress with constant shortages. How should policymakers administer proper economic instruments to relieve the supply chain stress? 
 
-### Project 3: [Save Big at King Crab Shack](https://github.com/xweih/kcs)
+### Project 3: [Save Big at King Crab Hack (KCH 2.0)](https://github.com/xweih/kcs_2.0)
 
-How to build a customizable seafood-boil order that will get you the biggest bang for the buck.
+An analytical guide to seafood-boil orders using Mixed Integer Optimization and CVXPY
 
 ### Project 4: [Outlier Remover](https://github.com/xweih/OutlierRemover)
 
