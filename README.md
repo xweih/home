@@ -31,11 +31,11 @@ A routine that removes the outliers of a dataset until there is none left.
 ### Project 6: [Iris Visualization](https://xweih.github.io/iris/)
 
 
-## Operations Research Skills
+## Operations Research Expertise
 
 - Optimization problems: LP, NLP, MIP, Variational Inequality, Robust Opt., Second-Order-Cone problems 
 
-## Data-related Skills
+## Data-related Proficiencies
 
 - Python
 - Machine Learning
