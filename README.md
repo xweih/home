@@ -10,7 +10,7 @@ Hi! I'm Xiaowei. I'm a passionate Operations Research Data Scientist with expert
 
 ## Projects
 
-### Project 1: [Last Mile Delivery (LMD)](https://github.com/xweih/Last-Mile-Delivery)
+### Project 1: [Last Mile Delivery (LMD) Scheduling](https://github.com/xweih/Last-Mile-Delivery)
 
 Furniture Co’s logistic department makes the last mile delivery from store to customers. I generate an assignment schedule for a given day by showing "what employee delivers which furniture to where". 
 
@@ -22,13 +22,13 @@ During the COVID-19 pandemic, the medical glove supply chain was under stress wi
 
 An analytical guide to seafood-boil orders using Mixed Integer Optimization and CVXPY
 
-### Project 4: [Outlier Remover](https://github.com/xweih/OutlierRemover)
-
-A routine that removes the outliers of a dataset until there is none left.
-
-### Project 5: [The Space Walker](https://github.com/xweih/spacewalker)
+### Project 4: [The Space Walker](https://github.com/xweih/spacewalker)
 
 A capacitated TSP with lateness.
+
+### Project 5: [Outlier Remover](https://github.com/xweih/OutlierRemover)
+
+A routine that removes the outliers of a dataset until there is none left.
 
 ### Project 6: [Titanic Visualization](https://xweih.github.io/titanic/)
 
