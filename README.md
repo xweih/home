@@ -24,7 +24,7 @@ An analytical guide to seafood-boil orders using Mixed Integer Optimization and 
 
 ### Project 4: [The Space Walker](https://github.com/xweih/spacewalker)
 
-A capacitated TSP with lateness requirements.
+An astronaut's spacewalk scheduling for satellite repairs: a capacitated TSP with lateness requirements. (visualized)
 
 ### Project 5: [Outlier Remover](https://github.com/xweih/OutlierRemover)
 
