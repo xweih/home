@@ -26,9 +26,13 @@ An analytical guide to seafood-boil orders using Mixed Integer Optimization and 
 
 A routine that removes the outliers of a dataset until there is none left.
 
-### Project 5: [Titanic Visualization](https://xweih.github.io/titanic/)
+### Project 5: [The Space Walker](https://github.com/xweih/spacewalker)
 
-### Project 6: [Iris Visualization](https://xweih.github.io/iris/)
+A capacitated TSP with lateness.
+
+### Project 6: [Titanic Visualization](https://xweih.github.io/titanic/)
+
+### Project 7: [Iris Visualization](https://xweih.github.io/iris/)
 
 
 ## Operations Research Expertise
