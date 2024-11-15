@@ -12,7 +12,7 @@ Hi! I'm Xiaowei. I'm a passionate Operations Research Data Scientist with expert
 
 ### Project 1: [Last Mile Delivery (LMD) Scheduling](https://github.com/xweih/Last-Mile-Delivery)
 
-Furniture Co’s logistic department makes the last mile delivery from store to customers. I generate an assignment schedule for a given day by showing "what employee delivers which furniture to where". 
+Furniture Co’s logistic department makes the last mile delivery from store to customers. I generate an assignment schedule for a given day by showing "what employee delivers which furniture to where" | visualized
 
 ### Project 2: [Tackling the Pandemic Supply Chain Disruption](https://github.com/xweih/POSTER--A-trident-for-the-resource-scarcity-and-supply-chain-disruption/blob/main/images/XHposter.png)
 
@@ -24,16 +24,19 @@ An analytical guide to seafood-boil orders using Mixed Integer Optimization and 
 
 ### Project 4: [The Space Walker](https://github.com/xweih/spacewalker)
 
-An astronaut's spacewalk scheduling for satellite repairs: a capacitated TSP with lateness requirements. (visualized)
+An astronaut's spacewalk scheduling for satellite repairs: a capacitated TSP with lateness requirements | visualized
 
-### Project 5: [Outlier Remover](https://github.com/xweih/OutlierRemover)
+### Project 5: [Portfolio Optimization](https://github.com/xweih/portfolioOpt)
 
-A routine that removes the outliers of a dataset until there is none left.
+An application of constrained convex optimization in finance with a Regularized Mean-Variance Model | visualized
 
 ### Project 6: [Titanic Visualization](https://xweih.github.io/titanic/)
 
 ### Project 7: [Iris Visualization](https://xweih.github.io/iris/)
 
+### Project 8: [Outlier Remover](https://github.com/xweih/OutlierRemover)
+
+A routine that removes the outliers of a dataset until there is none left.
 
 ## Operations Research Expertise
 
