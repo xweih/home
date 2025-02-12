@@ -45,6 +45,8 @@ A routine that removes the outliers of a dataset until there is none left.
 ## Data-related Proficiencies
 
 - Python
+- MATLAB
+- Julia
 - Machine Learning
 - Data Analysis
 - Data Visualization
@@ -60,6 +62,8 @@ A routine that removes the outliers of a dataset until there is none left.
 - Economic policy design
 - Scheduling
 - Market analysis
+- Portfolio Optimization
+- Inventory Management
 
 ## Education
 
